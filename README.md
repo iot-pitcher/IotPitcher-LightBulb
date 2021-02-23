@@ -18,7 +18,6 @@ Thank you for using IotPitcher, this documentation is only for your project. If 
         <img src="docs/configuration.jpeg"  height="500" />
       </td>
     </tr>
-    
     <tr>
       <td>
 <img src="docs/advanced1.jpeg" alt="drawing" height="700" />

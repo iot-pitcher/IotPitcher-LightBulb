@@ -23,7 +23,7 @@ In order to get started see examples/IotPitcher_Getting_Started, other examples 
 
 - Open your wifi and scan
 - Connect to`IoT Bulb Access Point` with password `12345678` 
-- Open your browser and type `192.168.4.1` on your URL
+- Open your browser and type `192.168.4.1` into your web browser's address bar
 - You should see the main page of IotPitcher
 
 You can set the WiFi ssid and password for your router and see it will connect when it finds.

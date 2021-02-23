@@ -2,7 +2,18 @@
 
 Thank you for using IotPitcher, this documentation is only for your project. If you cannot find what you are looking for, visit [IotPitcher](https://www.iotpitcher.com)
 
+
+
+![](docs/main_page_no_connection.jpeg)
+
+![](docs/main_page_connection.jpeg)
+
+![](docs/configuration.jpeg)
+
+![](docs/advanced1.jpeg)
+
 ## Table of contents
+
 - [Iot-Pitcher](#iot-pitcher)
   - [Table of contents](#table-of-contents)
   - [Building](#building)

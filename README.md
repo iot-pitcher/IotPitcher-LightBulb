@@ -2,15 +2,31 @@
 
 Thank you for using IotPitcher, this documentation is only for your project. If you cannot find what you are looking for, visit [IotPitcher](https://www.iotpitcher.com)
 
+<table>
+  <th>
+    <tr>
+      <td><img src="docs/main_page_no_connection.jpeg" height="700" /></td>
+      <td><img src="docs/main_page_connection.jpeg"  height="700" /></td>
+    </tr>
+</table>
 
 
-![](docs/main_page_no_connection.jpeg)
+<table>
+  <th>
+    <tr>
+      <td>
+        <img src="docs/configuration.jpeg"  height="500" />
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+<img src="docs/advanced1.jpeg" alt="drawing" height="700" />
+      </td>
+    </tr>
+</table>
 
-![](docs/main_page_connection.jpeg)
 
-![](docs/configuration.jpeg)
-
-![](docs/advanced1.jpeg)
 
 ## Table of contents
 
